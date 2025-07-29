@@ -3,7 +3,7 @@ Meu nome é Bruno Huguenin. Sou desenvolvedor Back-End, intusiasta do mundo da t
 
 Caso queira me encontra, pode entrar em contato:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://brunohuguenin)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunohuguenin)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunohuguenin&show_icons=true&theme=gruvbox)
 
