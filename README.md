@@ -1,7 +1,7 @@
 ### Olá! 🖐️
 Meu nome é Bruno Huguenin. Sou desenvolvedor Back-End, intusiasta do mundo da tecnologia.
 
-Caso queira me encontra, pode entrar em contato:
+Caso queira me encontrar, pode entrar em contato:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunohuguenin)
 
