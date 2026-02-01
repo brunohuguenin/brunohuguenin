@@ -1,5 +1,5 @@
 ### Olá! 🖐️
-Meu nome é Bruno Huguenin. Sou desenvolvedor Back-End, intusiasta do mundo da tecnologia.
+Meu nome é Bruno Huguenin. Sou analista de dados, intusiasta do mundo da tecnologia.
 
 Caso queira me encontrar, pode entrar em contato:
 
